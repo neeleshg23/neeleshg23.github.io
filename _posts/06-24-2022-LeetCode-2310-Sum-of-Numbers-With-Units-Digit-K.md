@@ -1,4 +1,4 @@
-## LeetCode 2310. Sum of Numbers With Units Digit K
+## LeetCode 2310 Sum of Numbers With Units Digit K
 
 ### Problem:
 
