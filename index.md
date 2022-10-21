@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+### Welcome to Neel's Space.
 
-Maybe say a some things about yourself.
+Currently studying Computer Science with a minor in Mathematics at USC.
 
-Or maybe what you plan to blog about.
+Currently working at USC ISI as a Reasearch Assistant working on  building an NLP model that can detect spam and phishing emails.
