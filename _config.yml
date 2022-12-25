@@ -20,6 +20,9 @@ linkedin_username: "neeleshgupta23"
 #########################################################################################
 theme: "minima" 
 
+minima:
+  skin: dark
+
 rss: rss
 
 kramdown:
