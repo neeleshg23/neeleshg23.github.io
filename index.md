@@ -1,6 +1,6 @@
 I am a third-year CS undergrad in the [Data Science Lab](https://dslab.usc.edu/) at USC, advised by [Prof. Viktor K. Prasanna](https://sites.usc.edu/prasanna/) and [Prof. Rajgopal Kannan](https://viterbi.usc.edu/directory/faculty/Kannan/Rajgopal).<br>
 - I'm interested in practical ML and algorithm-architecture co-design for acceleration. 
-- In the past, I've worked on ML for data prefetching to target practical AI-based micro-architectural systems support. 
+- In the past, I've worked on ML for data prefetching to target practical learning-based micro-architectural support. 
 - In the future, I want to better the compute- and energy-efficiency of graph analytics and computer vision tasks. 
 
 ## Publications
@@ -20,7 +20,5 @@ __Neelesh Gupta__\*, Pengmiao Zhang\*, Rajgopal Kannan, Viktor K. Prasanna<br>
 4. _Did your child get disturbed by an inappropriate advertisement on YouTube?_<br>
 Jeffrey Liu, Rajat Tandon, Uma Durairaj, Jiani Guo, Spencer Zahabizadeh, Sanjana Ilango, Jeremy Tang, __Neelesh Gupta__, Zoe Zhou, Jelena Mirkovic<br>
 28th Proceeings of Knowledge Discovery and Data Mining Undergraduate Consortium ([KDD-UC '22](https://www.kdd.org/kdd2022/kdd-uc.html))<br>
-
-\* means equal contribution.<br>
 
 (Last update: Mar. 15, 2024)
