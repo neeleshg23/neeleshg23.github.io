@@ -1,7 +1,7 @@
 I am a third-year CS undergrad in the [Data Science Lab](https://dslab.usc.edu/) at USC, advised by [Prof. Viktor K. Prasanna](https://sites.usc.edu/prasanna/) and [Prof. Rajgopal Kannan](https://viterbi.usc.edu/directory/faculty/Kannan/Rajgopal).<br>
-- I'm interested in practical ML and algorithm-architecture co-design. 
-- In the past, I've worked on ML for data prefetching to target practical learning-based micro-architectural support. 
-- In the future, I want to better the compute- and energy-efficiency of graph analytics and computer vision tasks. 
+- I'm interested in __practical ML__ and __algorithm-architecture co-design__. 
+- In the past, I've worked on __ML for data prefetching__ to target practical learning-based micro-architectural support. 
+- In the future, I want to lessen compute-intensity and better energy-efficiency of __graph analytics__ and __computer vision__ tasks. 
 
 ## Publications
 
