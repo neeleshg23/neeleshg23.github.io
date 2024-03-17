@@ -8,6 +8,7 @@ I am a third-year CS undergrad in the [Data Science Lab](https://dslab.usc.edu/)
 1. _TabConv: Low-Computation CNN Inference via Table Lookups_<br>
 __Neelesh Gupta__\*, Narayanan Kannan\*, Pengmiao Zhang\*, Viktor K. Prasanna<br>
 Proceedings of the 21st ACM International Conference on Computing Frontiers ([CF '24](https://www.computingfrontiers.org/2024/))<br>
+<button onclick="window.location.href='https://neeleshg23.github.io/TabConv.pdf';">PDF</button>
 <button onclick="window.location.href='https://github.com/pgroupATusc/TabConv';">Code</button>
 
 2. _Attention, Distillation, and Tabularization: Towards Practical Neural Network-Based Prefetching_<br>
