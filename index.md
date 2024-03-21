@@ -1,6 +1,6 @@
 I am a third-year CS undergrad in the [Data Science Lab](https://dslab.usc.edu/) at USC, advised by [Prof. Viktor K. Prasanna](https://sites.usc.edu/prasanna/) and [Prof. Rajgopal Kannan](https://viterbi.usc.edu/directory/faculty/Kannan/Rajgopal).<br>
 - I'm interested in __practical ML__ and __HW/SW co-design__.
-    - More specifically, expanding universal support for parallel architectures, algorithms, and applications.   
+  - More specifically, expanding universal support for parallel architectures, algorithms, and applications.   
 - In the past, I've worked on __ML for data prefetching__ to target practical learning-based micro-architectural support. 
 - In the future, I want to lessen the compute-intensity and better the energy-efficiency for __graph__ and __computer vision__ tasks. 
 
