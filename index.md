@@ -1,4 +1,4 @@
-I am a joint Bachelor's-Master's student in CS working in the [Data Science Lab](https://dslab.usc.edu/) at USC, advised by [Prof. Viktor K. Prasanna](https://sites.usc.edu/prasanna/) and [Prof. Rajgopal Kannan](https://viterbi.usc.edu/directory/faculty/Kannan/Rajgopal).<br>
+I am a joint Bachelor's and Master's student in CS working in the [Data Science Lab](https://dslab.usc.edu/) at USC, advised by [Prof. Viktor K. Prasanna](https://sites.usc.edu/prasanna/) and [Prof. Rajgopal Kannan](https://viterbi.usc.edu/directory/faculty/Kannan/Rajgopal).<br>
 My full CV can be found [here](https://neeleshg23.github.io/autoCV/cv.pdf).<br>
 I'm interested in the following topics:
 - Data Prefetching & Memory Subsystems
