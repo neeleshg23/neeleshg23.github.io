@@ -1,10 +1,11 @@
-I am a joint Bachelor's and Master's student in CS working in the [Data Science Lab](https://dslab.usc.edu/) at USC, advised by [Prof. Viktor K. Prasanna](https://sites.usc.edu/prasanna/) and [Prof. Rajgopal Kannan](https://viterbi.usc.edu/directory/faculty/Kannan/Rajgopal).<br>
+<!-- I am a joint Bachelor's and Master's student in CS working in the [Data Science Lab](https://dslab.usc.edu/) at USC, advised by [Prof. Viktor K. Prasanna](https://sites.usc.edu/prasanna/) and [Prof. Rajgopal Kannan](https://viterbi.usc.edu/directory/faculty/Kannan/Rajgopal).<br>
 My full CV can be found [here](https://neeleshg23.github.io/autoCV/cv.pdf).<br>
 I'm interested in the following topics:
 - Data Prefetching & Memory Subsystems
 - Heterogeneous Computing with Integrated & Discrete Accelerators
 - Low-Cost Neural Network Inference & Edge Computing
-- Model-Architecture & Hardware-Software Co-Design
+- Model-Architecture & Hardware-Software Co-Design -->
+I am a PhD student in Computer Engineering at USC, advised by [Prof. Viktor K. Prasanna](https://sites.usc.edu/prasanna/) and [Prof. Rajgopal Kannan](https://viterbi.usc.edu/directory/faculty/Kannan/Rajgopal).~
 
 ## Publications
 
@@ -14,7 +15,7 @@ Proceedings of the 21st ACM International Conference on Computing Frontiers ([CF
 <button onclick="window.location.href='https://neeleshg23.github.io/TabConv_Camera_Ready.pdf';">PDF</button>
 <button onclick="window.location.href='https://github.com/neeleshg23/TabConv';">Code</button>
 
-2. __[TPDS]__ _Net2Tab: Neural Network to Tables for Data Prefetching (In Review)_<br> 
+2. __[JPDC]__ _Net2Tab: Neural Network to Tables for Data Prefetching (In Review)_<br> 
 Pengmiao Zhang, __Neelesh Gupta__, Rajgopal Kannan, Viktor K. Prasanna<br>
 Transactions on Parallel and Distributed Systems ([TPDS](https://www.computer.org/csdl/journal/td))<br>
 <button onclick="window.location.href='https://neeleshg23.github.io/TPDS_submitted.pdf';">PDF</button>
