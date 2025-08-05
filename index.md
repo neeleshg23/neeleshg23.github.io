@@ -5,7 +5,11 @@ I'm interested in the following topics:
 - Heterogeneous Computing with Integrated & Discrete Accelerators
 - Low-Cost Neural Network Inference & Edge Computing
 - Model-Architecture & Hardware-Software Co-Design -->
-I am a PhD student in Computer Engineering at USC, advised by [Prof. Viktor K. Prasanna](https://sites.usc.edu/prasanna/) and [Prof. Rajgopal Kannan](https://viterbi.usc.edu/directory/faculty/Kannan/Rajgopal).~
+I am a PhD student in Computer Engineering at USC, advised by [Prof. Viktor K. Prasanna](https://sites.usc.edu/prasanna/) and [Prof. Raj Kannan](https://viterbi.usc.edu/directory/faculty/Kannan/Rajgopal). I'm interested broadly in ML Systems, Memory-Bound Inference, and Sparse ML. My full CV can be found [here](https://neeleshg23.github.io/autoCV/cv.pdf)
+My areas of expertise are:
+- Data prefetching, caching, and data locality (spatial/temporal)
+- Performance modeling, parallel algorithm design, and scalability analysis
+- Hardware/software co-design for neural network inference
 
 ## Publications
 
@@ -42,4 +46,4 @@ Jeffrey Liu, Rajat Tandon, Uma Durairaj, Jiani Guo, Spencer Zahabizadeh, Sanjana
 28th Proceeings of Knowledge Discovery and Data Mining Undergraduate Consortium ([KDD-UC '22](https://www.kdd.org/kdd2022/kdd-uc.html))<br>
 <button onclick="window.location.href='https://arxiv.org/pdf/2211.02356.pdf';">PDF</button>
 
-(Last update: Sep. 13, 2024)
+(Last update: Aug. 4, 2025)
