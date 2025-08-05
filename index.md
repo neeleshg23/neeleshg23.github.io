@@ -6,7 +6,7 @@ I'm interested in the following topics:
 - Low-Cost Neural Network Inference & Edge Computing
 - Model-Architecture & Hardware-Software Co-Design -->
 I am a PhD student in Computer Engineering at USC, advised by [Prof. Viktor K. Prasanna](https://sites.usc.edu/prasanna/) and [Prof. Raj Kannan](https://viterbi.usc.edu/directory/faculty/Kannan/Rajgopal). I'm interested broadly in ML Systems, Memory-Bound Inference, and Sparse ML.<br>
-My full CV can be found [here](https://neeleshg23.github.io/autoCV/cv.pdf).
+My full CV can be found [here](https://neeleshg23.github.io/autoCV/cv.pdf).<br>
 My areas of expertise are:
 - Data prefetching, caching, and data locality (spatial/temporal)
 - Performance modeling, parallel algorithm design, and scalability analysis
