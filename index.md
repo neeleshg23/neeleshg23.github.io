@@ -9,7 +9,7 @@ I am a Ph.D. student in Computer Engineering at USC, advised by [Prof. Viktor K.
 My full CV can be found [here](https://neeleshg23.github.io/autoCV/cv.pdf).<br>
 My areas of expertise are:
 - Data prefetching, caching, and data locality (spatial/temporal)
-- Performance modeling, parallel algorithm design, and scalability analysis
+- Performance modeling, parallel algorithm design, and scalability
 - Hardware/software co-design for neural network inference
 
 ## Publications
