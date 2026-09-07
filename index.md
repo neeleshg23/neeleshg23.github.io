@@ -29,7 +29,6 @@ I am a second-year Ph.D. student in Computer Engineering at USC, working in the 
    Dongyan Sun, __Neelesh Gupta__, Rajgopal Kannan, Viktor Prasanna<br>
    IEEE High Performance Extreme Computing Conference (HPEC 2026), forthcoming.<br>
    <span class="award">Outstanding Student Paper</span><br>
-   <a class="paper-link" href="https://ieee-hpec.org/ieee-hpec-2026-prelim-agenda/#2-4">Program</a>
 
 2. <span class="venue">JPDC</span><br><span class="paper-title">Net2Tab: Tabularizing Neural Networks with Applications to Data Prefetching</span><br>
    Pengmiao Zhang, __Neelesh Gupta__, Rajgopal Kannan, Viktor K. Prasanna<br>
@@ -71,13 +70,13 @@ I am a second-year Ph.D. student in Computer Engineering at USC, working in the 
 
 9. <span class="venue">CF '24</span><br><span class="paper-title">TabConv: Low-Computation CNN Inference via Table Lookups</span><br>
    __Neelesh Gupta__, Narayanan Kannan, Pengmiao Zhang, Viktor K. Prasanna<br>
-   Proceedings of the 21st ACM International Conference on Computing Frontiers ([CF '24](https://www.computingfrontiers.org/2024/))<br>
+   Proceedings of the 21st ACM International Conference on Computing Frontiers (CF '24)<br>
    <a class="paper-link" href="https://neeleshg23.github.io/TabConv_Camera_Ready.pdf">PDF</a>
    <a class="paper-link" href="https://github.com/neeleshg23/TabConv">Code</a>
 
 10. <span class="venue">IPDPS '24</span><br><span class="paper-title">Attention, Distillation, and Tabularization: Towards Practical Neural Network-Based Prefetching</span><br>
     Pengmiao Zhang, __Neelesh Gupta__, Rajgopal Kannan, Viktor K. Prasanna<br>
-    38th IEEE International Parallel & Distributed Processing Symposium ([IPDPS '24](https://www.ipdps.org/ipdps2024/))<br>
+    38th IEEE International Parallel & Distributed Processing Symposium (IPDPS '24)<br>
     <a class="paper-link" href="https://arxiv.org/pdf/2401.06362.pdf">PDF</a>
     <a class="paper-link" href="https://github.com/neeleshg23/DART">Code</a>
 
@@ -89,7 +88,7 @@ I am a second-year Ph.D. student in Computer Engineering at USC, working in the 
 
 12. <span class="venue">KDD-UC '22</span><br><span class="paper-title">Did your child get disturbed by an inappropriate advertisement on YouTube?</span><br>
     Jeffrey Liu, Rajat Tandon, Uma Durairaj, Jiani Guo, Spencer Zahabizadeh, Sanjana Ilango, Jeremy Tang, __Neelesh Gupta__, Zoe Zhou, Jelena Mirkovic<br>
-    Proceedings of the KDD Undergraduate Consortium ([KDD-UC '22](https://www.kdd.org/kdd2022/kdd-uc.html)).<br>
+    Proceedings of the KDD Undergraduate Consortium (KDD-UC '22).<br>
     <a class="paper-link" href="https://arxiv.org/pdf/2211.02356.pdf">PDF</a>
 
 <p class="updated">Last updated September 7, 2026</p>
