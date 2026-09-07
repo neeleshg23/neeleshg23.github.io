@@ -70,13 +70,13 @@ I am a second-year Ph.D. student in Computer Engineering at USC, working in the 
 
 9. <span class="venue">CF '24</span><br><span class="paper-title">TabConv: Low-Computation CNN Inference via Table Lookups</span><br>
    __Neelesh Gupta__, Narayanan Kannan, Pengmiao Zhang, Viktor K. Prasanna<br>
-   Proceedings of the 21st ACM International Conference on Computing Frontiers (CF '24)<br>
+   Proceedings of the 21st ACM International Conference on Computing Frontiers (CF 2024).<br>
    <a class="paper-link" href="https://neeleshg23.github.io/TabConv_Camera_Ready.pdf">PDF</a>
    <a class="paper-link" href="https://github.com/neeleshg23/TabConv">Code</a>
 
 10. <span class="venue">IPDPS '24</span><br><span class="paper-title">Attention, Distillation, and Tabularization: Towards Practical Neural Network-Based Prefetching</span><br>
     Pengmiao Zhang, __Neelesh Gupta__, Rajgopal Kannan, Viktor K. Prasanna<br>
-    38th IEEE International Parallel & Distributed Processing Symposium (IPDPS '24)<br>
+    38th IEEE International Parallel & Distributed Processing Symposium (IPDPS 2024).<br>
     <a class="paper-link" href="https://arxiv.org/pdf/2401.06362.pdf">PDF</a>
     <a class="paper-link" href="https://github.com/neeleshg23/DART">Code</a>
 
@@ -88,7 +88,7 @@ I am a second-year Ph.D. student in Computer Engineering at USC, working in the 
 
 12. <span class="venue">KDD-UC '22</span><br><span class="paper-title">Did your child get disturbed by an inappropriate advertisement on YouTube?</span><br>
     Jeffrey Liu, Rajat Tandon, Uma Durairaj, Jiani Guo, Spencer Zahabizadeh, Sanjana Ilango, Jeremy Tang, __Neelesh Gupta__, Zoe Zhou, Jelena Mirkovic<br>
-    Proceedings of the KDD Undergraduate Consortium (KDD-UC '22).<br>
+    Proceedings of the KDD Undergraduate Consortium (KDD-UC 2022).<br>
     <a class="paper-link" href="https://arxiv.org/pdf/2211.02356.pdf">PDF</a>
 
 <p class="updated">Last updated September 7, 2026</p>
