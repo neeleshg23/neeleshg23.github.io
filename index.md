@@ -1,5 +1,5 @@
 I am a second-year Ph.D. student in Computer Engineering at USC, working in the [FPGA/Parallel Computing Lab](https://sites.usc.edu/fpga/), advised by [Prof. Viktor K. Prasanna](https://sites.usc.edu/prasanna/) and [Prof. Raj Kannan](https://scholar.google.com/citations?user=uXxUv0IAAAAJ&hl=en).<br>
-My full CV can be found [here](https://neeleshg23.github.io/autoCV/cv.pdf).<br>
+<!-- My full CV can be found [here](https://neeleshg23.github.io/autoCV/cv.pdf).<br> -->
 
 My research interests include:
 
