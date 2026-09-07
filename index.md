@@ -6,8 +6,8 @@ My research interests include:
 - Machine learning for systems
 - Graph machine learning
 - Agentic and physical AI
-- Efficient attention alternatives and subquadratic neural network architectures
-- Heterogeneous computing, parallel algorithms, and hardware/software co-design
+- Subquadratic neural network architectures
+- Heterogeneous computing and hardware/software co-design
 
 ## Teaching
 
