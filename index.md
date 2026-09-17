@@ -28,7 +28,7 @@ I am a second-year Ph.D. student in Computer Engineering at USC, working in the 
 1. <span class="venue">HPEC '26</span><br><span class="paper-title">Topology Survives Shuffling: Robust Long-Context Memory Access Prediction for Graph Analytics</span><br>
    Dongyan Sun, __Neelesh Gupta__, Rajgopal Kannan, Viktor Prasanna<br>
    IEEE High Performance Extreme Computing Conference (HPEC 2026), forthcoming.<br>
-   <span class="award">Outstanding Student Paper</span><br>
+   <span class="award">Best Student Paper</span><br>
 
 2. <span class="venue">JPDC</span><br><span class="paper-title">Net2Tab: Tabularizing Neural Networks with Applications to Data Prefetching</span><br>
    Pengmiao Zhang, __Neelesh Gupta__, Rajgopal Kannan, Viktor K. Prasanna<br>
