@@ -9,33 +9,34 @@ body { max-width: 850px; margin: 3rem auto; padding: 0 1.5rem; }
 a { color: #174c86; text-underline-offset: .15em; }
 a:hover { color: #102f52; }
 a:focus-visible { outline: 2px solid #174c86; outline-offset: 4px; }
-h1, h2, h3 { line-height: 1.25; color: #111; }
+h1, h2, h3, h4 { line-height: 1.25; color: #111; }
 h1 { margin: 0 0 .65rem; font-size: 2rem; }
 h2 { margin: 2.5rem 0 1rem; font-size: 1.4rem; }
 h3 { margin: 0 0 .3rem; font-size: 1.15rem; }
 p { margin: 0 0 1rem; }
 header { display: flow-root; }
-.portrait { float: right; width: 132px; height: 150px; object-fit: cover; margin: 0 0 1rem 2rem; }
+.portrait { float: right; width: 160px; height: 182px; object-fit: cover; margin: 0 0 1rem 2rem; }
 .profile-links { font-size: .9rem; }
 nav { display: flex; flex-wrap: wrap; gap: .4rem 1.2rem; font-size: .9rem; }
 .skip-link { position: absolute; left: 1rem; top: -5rem; background: #fff; padding: .5rem; }
 .skip-link:focus { top: 1rem; }
-section { scroll-margin-top: 1.5rem; }
+[id] { scroll-margin-top: 1.5rem; }
 .publications { padding-left: 1.4rem; }
 .publications li { padding-left: .25rem; margin: 0 0 1.5rem; }
 .publications p { margin: 0; }
 .paper-title { font-size: 1rem; }
-.contribution, .award { font-size: .9rem; }
+.award { font-weight: 700; white-space: nowrap; }
 .project { margin: 0 0 2.5rem; }
+.work { margin-top: 1.5rem; }
+h4 { margin: 0 0 .5rem; font-size: 1rem; }
 .subtitle { color: #555; margin-bottom: .8rem; }
 figure { margin: 1.25rem 0 0; max-width: 620px; }
 figure img { display: block; width: 100%; height: auto; }
-figcaption { color: #555; font-size: .85rem; margin-top: .6rem; }
 footer { margin-top: 2.5rem; padding-top: 1rem; border-top: 1px solid #ddd; color: #555; font-size: .8rem; }
 @media (max-width: 560px) {
   :root { font-size: 16px; }
   body { margin: 1.5rem auto; padding: 0 1.1rem; }
-  .portrait { width: 90px; height: 102px; margin-left: 1rem; }
+  .portrait { width: 110px; height: 125px; margin-left: 1rem; }
   h1 { font-size: 1.7rem; }
   .profile-links, nav { clear: both; }
   .publications { padding-left: 1.15rem; }
