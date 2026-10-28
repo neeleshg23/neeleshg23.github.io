@@ -1,0 +1,50 @@
+/* LoCoMAP and Net2Tab figures. Other website sections are unchanged. */
+.locomap-figure-pair {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+  margin-top: 1.25rem;
+}
+.locomap-figure-pair figure,
+.net2tab-figures figure {
+  margin: 0;
+  min-width: 0;
+  max-width: none;
+}
+.locomap-figure-pair a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 1.5;
+}
+.locomap-figure-pair img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.net2tab-figures {
+  display: grid;
+  gap: 1.5rem;
+  margin-top: 1.25rem;
+}
+.net2tab-figures img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.locomap-figure-pair figcaption,
+.net2tab-figures figcaption {
+  margin-top: .4rem;
+  color: #555;
+  font-size: .85rem;
+  text-align: center;
+}
+@media (max-width: 700px) {
+  .locomap-figure-pair {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.5rem;
+  }
+  .locomap-figure-pair a { aspect-ratio: auto; }
+  .locomap-figure-pair img { height: auto; }
+}

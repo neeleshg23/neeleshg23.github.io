@@ -1,4 +1,4 @@
-!doctype html>
+﻿doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -8,6 +8,7 @@
   <link rel="canonical" href="https://neeleshg23.github.io/">
   <link rel="icon" href="favicon.ico">
   <link rel="stylesheet" href="assets/css/style.css?v=20261027-2">
+  <link rel="stylesheet" href="assets/css/research-figures.css?v=1">
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
@@ -46,15 +47,47 @@
       <article class="project" aria-labelledby="memory-predictors">
         <h3 id="memory-predictors">ML-based Memory Access Predictors and Prefetchers</h3>
 
-        <div class="work">
-          <h4 id="locomap">Graph structure and long context <a class="award" href="https://ieee-hpec.org/ieee-hpec-2026-agenda/">[Best Student Paper]</a></h4>
-          <p><a href="#publication-1">LoCoMAP (HPEC 2026)</a></p>
-          <figure>
-            <a href="assets/images/hpec26-figure-1.png">
-              <img src="assets/images/hpec26-figure-1.png" width="1440" height="984" loading="lazy" decoding="async"
-                alt="LoCoMAP graph study: Erdős–Rényi random connectivity, Barabási–Albert hubs, Copying Model clusters, Watts–Strogatz small-world ring, stochastic block communities, and a regular grid.">
-            </a>
-          </figure>
+        <div class="work" data-figure-update="locomap-pair-v1">
+          <h4 id="locomap">LoCoMAP <a class="award" href="https://ieee-hpec.org/ieee-hpec-2026-agenda/">[Best Student Paper]</a></h4>
+          <p><a href="#publication-1">HPEC 2026</a></p>
+          <div class="locomap-figure-pair">
+            <figure>
+              <a href="assets/images/hpec26-figure-1.png" aria-label="Open LoCoMAP Figure 1 at full resolution">
+                <img src="assets/images/hpec26-figure-1.png" width="1440" height="984" loading="lazy" decoding="async"
+                  alt="LoCoMAP Figure 1: ER, BA, CM, WS, SBM, and Grid graph topologies.">
+              </a>
+              <figcaption>Figure 1</figcaption>
+            </figure>
+            <figure>
+              <a href="assets/images/locomap-figure-3.png" aria-label="Open LoCoMAP Figure 3 at full resolution">
+                <img src="assets/images/locomap-figure-3.png" width="5250" height="3420" loading="lazy" decoding="async"
+                  alt="LoCoMAP Figure 3: memory-access traces across six synthetic graph families.">
+              </a>
+              <figcaption>Figure 3</figcaption>
+            </figure>
+          </div>
+        </div>
+
+        <div class="work" data-figure-update="net2tab-v1">
+          <h4 id="net2tab">Net2Tab</h4>
+          <p><a href="https://doi.org/10.1016/j.jpdc.2026.105265">Paper (JPDC 2026)</a> ·
+            <a href="#publication-2">Publication</a></p>
+          <div class="net2tab-figures">
+            <figure>
+              <a href="assets/images/net2tab-figure-7.png" aria-label="Open Net2Tab Figure 7 at full resolution">
+                <img src="assets/images/net2tab-figure-7.png" width="1900" height="1410" loading="lazy" decoding="async"
+                  alt="Net2Tab Figure 7: benchmark memory traces with execution cycles, block addresses, and address deltas.">
+              </a>
+              <figcaption>Figure 7</figcaption>
+            </figure>
+            <figure>
+              <a href="assets/images/net2tab-figure-9.png" aria-label="Open Net2Tab Figure 9 at full resolution">
+                <img src="assets/images/net2tab-figure-9.png" width="1856" height="1288" loading="lazy" decoding="async"
+                  alt="Net2Tab Figure 9: layer-wise activation distributions before and after fine-tuning.">
+              </a>
+              <figcaption>Figure 9</figcaption>
+            </figure>
+          </div>
         </div>
 
         <div class="work">
