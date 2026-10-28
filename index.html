@@ -1,4 +1,4 @@
-<!doctype html>
+!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -45,11 +45,9 @@
       <h2 id="selected-projects">Selected Projects</h2>
       <article class="project" aria-labelledby="memory-predictors">
         <h3 id="memory-predictors">ML-based Memory Access Predictors and Prefetchers</h3>
-        <p class="subtitle">Long context, model compression, and table lookups</p>
 
         <div class="work">
           <h4 id="locomap">Graph structure and long context <a class="award" href="https://ieee-hpec.org/ieee-hpec-2026-agenda/">[Best Student Paper]</a></h4>
-          <p>LoCoMAP tests memory access prediction across regenerated graphs and shuffled node layouts.</p>
           <p><a href="#publication-1">LoCoMAP (HPEC 2026)</a></p>
           <figure>
             <a href="assets/images/hpec26-figure-1.png">
@@ -61,7 +59,6 @@
 
         <div class="work">
           <h4 id="dart">Table-based prefetching</h4>
-          <p>DART distills an attention-based memory predictor, then converts it to a hierarchy of table lookups.</p>
           <p><a href="https://arxiv.org/pdf/2401.06362.pdf">DART paper (IPDPS 2024)</a> ·
             <a href="https://github.com/neeleshg23/DART" aria-label="DART code">Code</a></p>
           <figure>
@@ -72,43 +69,38 @@
           </figure>
         </div>
 
+      </article>
+
+      <article class="project" aria-labelledby="subquadratic-nn">
+        <h3 id="subquadratic-nn">Accelerating Subquadratic NN Architectures</h3>
+
         <div class="work">
-          <h4 id="packd">Compact predictors through distillation</h4>
-          <p>PaCKD clusters access sequences, trains pattern-specific teachers, and distills them into one compact predictor.</p>
-          <p><a href="https://arxiv.org/pdf/2402.13441.pdf">PaCKD paper (HPEC 2023)</a> ·
-            <a href="https://github.com/neeleshg23/PaCKD" aria-label="PaCKD code">Code</a></p>
+          <h4 id="persistent-state-attention">Persistent-state linear attention <strong class="award">[Best Poster]</strong></h4>
+          <p><a href="https://arxiv.org/abs/2603.05931">Linear attention accelerator (RAW 2026)</a> ·
+            <a href="#publication-3">Publication</a></p>
           <figure>
-            <a href="assets/images/packd-framework.png">
-              <img src="assets/images/packd-framework.png" width="1999" height="802" loading="lazy" decoding="async"
-                alt="PaCKD training framework: cluster memory access sequences, train pattern-specific teacher models, and use ensemble multi-label knowledge distillation to train one compact student predictor.">
+            <a href="assets/images/linear-attention-architecture.png">
+              <img src="assets/images/linear-attention-architecture.png" width="1600" height="576" loading="lazy" decoding="async"
+                alt="Persistent-state Gated DeltaNet accelerator architecture: input buffers, prepare stage, parallel processing elements, and BRAM state banks.">
+            </a>
+          </figure>
+        </div>
+
+        <div class="work">
+          <h4 id="long-fft-convolutions">Memory-aware long convolutions</h4>
+          <p><a href="https://arxiv.org/abs/2601.06065">Long FFT convolutions (HiPCW 2025)</a> ·
+            <a href="#publication-5">Publication</a></p>
+          <figure>
+            <a href="assets/images/fft-convolution-architecture.png">
+              <img src="assets/images/fft-convolution-architecture.png" width="1000" height="669" loading="lazy" decoding="async"
+                alt="Chunked FFT convolution architecture: CPU input and filter chunks, FPGA FFT and IFFT kernel, and host overlap-add reconstruction.">
             </a>
           </figure>
         </div>
       </article>
 
-      <article class="project" aria-labelledby="subquadratic-nn">
-        <h3 id="subquadratic-nn">Accelerating Subquadratic NN Architectures</h3>
-        <p class="subtitle">Linear attention and long convolutions</p>
-
-        <div class="work">
-          <h4 id="persistent-state-attention">Persistent-state linear attention <strong class="award">[Best Poster]</strong></h4>
-          <p>Keeps Gated DeltaNet's recurrent state on-chip to avoid transferring it to and from external memory for every decoded token.</p>
-          <p><a href="https://arxiv.org/abs/2603.05931">Linear attention accelerator (RAW 2026)</a> ·
-            <a href="#publication-3">Publication</a></p>
-        </div>
-
-        <div class="work">
-          <h4 id="long-fft-convolutions">Memory-aware long convolutions</h4>
-          <p>Uses chunked FFTs and overlap-add reconstruction to run long convolutions within limited FPGA on-chip memory.</p>
-          <p><a href="https://arxiv.org/abs/2601.06065">Long FFT convolutions (HiPCW 2025)</a> ·
-            <a href="#publication-5">Publication</a></p>
-        </div>
-      </article>
-
       <article class="project" aria-labelledby="tabconv">
         <h3 id="tabconv">Efficient CNN Inference</h3>
-        <p class="subtitle">Table lookups for convolutional neural networks</p>
-        <p>TabConv maps CNN operations to table lookups and keeps selected layers as exact computations.</p>
         <p><a href="TabConv_Camera_Ready.pdf">TabConv paper (CF 2024)</a> ·
           <a href="https://github.com/neeleshg23/TabConv" aria-label="TabConv code">Code</a></p>
         <figure>
