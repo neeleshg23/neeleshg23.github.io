@@ -38,7 +38,7 @@
         <a href="https://scholar.google.com/citations?user=uXxUv0IAAAAJ&amp;hl=en">Prof. Raj Kannan</a>.</p>
       <p id="research-interests">My research interests include machine learning for systems, graph machine learning,
         agentic and physical AI, subquadratic neural network architectures, and
-        heterogeneous computing and hardware/software co-design.</p>
+        heterogeneous computing.</p>
     </section>
 
     <section aria-labelledby="selected-projects">
@@ -83,6 +83,25 @@
                 alt="PaCKD training framework: cluster memory access sequences, train pattern-specific teacher models, and use ensemble multi-label knowledge distillation to train one compact student predictor.">
             </a>
           </figure>
+        </div>
+      </article>
+
+      <article class="project" aria-labelledby="subquadratic-nn">
+        <h3 id="subquadratic-nn">Accelerating Subquadratic NN Architectures</h3>
+        <p class="subtitle">Linear attention and long convolutions</p>
+
+        <div class="work">
+          <h4 id="persistent-state-attention">Persistent-state linear attention <strong class="award">[Best Poster]</strong></h4>
+          <p>Keeps Gated DeltaNet's recurrent state on-chip to avoid transferring it to and from external memory for every decoded token.</p>
+          <p><a href="https://arxiv.org/abs/2603.05931">Linear attention accelerator (RAW 2026)</a> ·
+            <a href="#publication-3">Publication</a></p>
+        </div>
+
+        <div class="work">
+          <h4 id="long-fft-convolutions">Memory-aware long convolutions</h4>
+          <p>Uses chunked FFTs and overlap-add reconstruction to run long convolutions within limited FPGA on-chip memory.</p>
+          <p><a href="https://arxiv.org/abs/2601.06065">Long FFT convolutions (HiPCW 2025)</a> ·
+            <a href="#publication-5">Publication</a></p>
         </div>
       </article>
 
